@@ -1,0 +1,7 @@
+﻿  forbidden_desert.cpp
+c:\drive\facultate\diverse2\projects1\forbidden_desert\forbidden_desert\forbidden_desert.cpp(821): warning C4101: 'k': unreferenced local variable
+c:\drive\facultate\diverse2\projects1\forbidden_desert\forbidden_desert\forbidden_desert.cpp(1892): warning C4101: 'i': unreferenced local variable
+c:\drive\facultate\diverse2\projects1\forbidden_desert\forbidden_desert\forbidden_desert.cpp(574): warning C4715: 'deplasare': not all control paths return a value
+c:\drive\facultate\diverse2\projects1\forbidden_desert\forbidden_desert\forbidden_desert.cpp(1273): warning C4715: 'neblocat': not all control paths return a value
+c:\drive\facultate\diverse2\projects1\forbidden_desert\forbidden_desert\forbidden_desert.cpp(1590): warning C4715: 'curatare_nisip': not all control paths return a value
+  Forbidden_desert.vcxproj -> C:\Drive\Facultate\Diverse2\Projects1\Forbidden_desert\Debug\Forbidden_desert.exe
